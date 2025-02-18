@@ -47,5 +47,5 @@ firebase-debug.log
 
 # Environment files
 .env
-src/environments/environment.ts
-src/environments/environment.prod.ts
+src/environments/environment*.ts
+!src/environments/environment.template.ts
